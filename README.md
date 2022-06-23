@@ -1,0 +1,2 @@
+# NegoDNS
+This Is Spoiler
